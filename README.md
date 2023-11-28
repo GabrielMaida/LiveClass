@@ -10,6 +10,6 @@
 
 <br>
 
-🔗 *URL Repositório GitHub:* https://github.com/GabrielMaida/live_class
+🔗 *URL Repositório GitHub:* https://github.com/GabrielMaida/LiveClass
 
-🛬 *URL Landpage:* https://gabrielmaida.github.io/live_class/
+🛬 *URL Landpage:* https://gabrielmaida.github.io/LiveClass

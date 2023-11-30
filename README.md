@@ -12,4 +12,4 @@
 
 🔗 *URL Repositório GitHub:* https://github.com/GabrielMaida/LiveClass
 
-🛬 *URL Landpage:* https://gabrielmaida.github.io/LiveClass
+🛬 *URL Landpage:* https://gabrielmaida.github.io/LiveClass/
